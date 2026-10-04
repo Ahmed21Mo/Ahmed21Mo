@@ -1,5 +1,26 @@
-# 💫 About Me:
-I’m currently working on 🚀<br>Building backend projects using C# and .NET while strengthening my skills in ASP.NET Core, SQL, and Entity Framework Core.<br>I’m looking to collaborate on 🤝<br>Backend .NET projects, open-source projects, and practical software development projects.<br>I’m looking for help with 🫱<br>Improving my backend development skills and learning best practices for building scalable and maintainable applications.<br>I’m currently learning 🌱<br>Advanced C#, ASP.NET Core, Entity Framework Core, SQL, and backend architecture.<br>Ask me about 💬<br>C#, OOP, .NET, backend development, C++, and programming fundamentals.<br>Fun fact ⚡<br>I enjoy turning what I learn into practical projects and continuously improving my development skills.
+### I’m currently working on 🚀
+
+Building backend projects with C# and .NET while improving my skills in ASP.NET Core, SQL and Entity Framework Core.
+
+### I’m looking to collaborate on 🤝
+
+.NET backend projects, open source projects and practical software projects where I can learn, contribute and gain real experience.
+
+### I’m looking to improve 🫱
+
+My backend development skills and my understanding of clean code, databases and building reliable applications.
+
+### I’m currently learning 🌱
+
+Advanced C#, ASP.NET Core, Entity Framework Core, SQL and backend architecture.
+
+### Ask me about 💬
+
+C#, OOP, .NET, ASP.NET Core and backend development.
+
+### Fun fact ⚡
+
+I like learning by building things. Most of what I learn ends up becoming a small project or part of a bigger one.
 
 
 ## 🌐 Socials:
